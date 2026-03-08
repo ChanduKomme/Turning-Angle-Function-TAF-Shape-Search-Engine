@@ -1,5 +1,4 @@
-Turning Angle Function (TAF) Shape Search Engine
----
+# Project00 - Turning Angle Function (TAF) Shape Search Engine
 
 This project now contains a **Turning-Angle-Function (TAF) based search engine** for shape retrieval.
 
